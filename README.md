@@ -1,4 +1,4 @@
-# Welcome to OpenRec!
+# Welcome to NetRec!
 ---
 OpenRec is a RecRoom server software made by recroom2016!
 

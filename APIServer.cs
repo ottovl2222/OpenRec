@@ -711,7 +711,7 @@ namespace server
 		public static string ChallengesV1GetCurrent = "{\"Success\":true,\"Message\":\"OpenRec\"}";
 		public static string ChecklistV1Current = "[{\"Order\":0,\"Objective\":3000,\"Count\":3,\"CreditAmount\":100},{\"Order\":1,\"Objective\":3001,\"Count\":3,\"CreditAmount\":100},{\"Order\":2,\"Objective\":3002,\"Count\":3,\"CreditAmount\":100}]";
 
-		public static string Banned = "{\"ReportCategory\":1,\"Duration\":200,\"GameSessionId\":100,\"Message\":\"Warning You Have Got Reports For Hacks\"}";
+		public static string Banned = "{\"ReportCategory\":1,\"Duration\":100,\"GameSessionId\":100,\"Message\":\"Warning You Have Got Reports For Hacks\"}";
 
 		private HttpListener listener = new HttpListener(); 
 	}
